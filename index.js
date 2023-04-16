@@ -15,7 +15,7 @@ const developers = {
             image: "../assets/team/omar.jpg",        
             linkedin: "https://www.linkedin.com/in/omar-virili-16ba1837/",
             github: "https://github.com/odv144",
-            bio: "Debido a un pequeño error de mi padre, me inscribió en un curso de programación en COBOL a los 13 años, lo que resultó ser una puerta de entrada al mundo de la programación. Después de cursar algunos estudios en Ingeniería en Sistemas de Información, me dediqué a la electrónica durante más de 15 años. Sin embargo, a los 39 años decidí volver a la programación y emprender el interminable camino del aprendizaje en el desarrollo."
+            bio: "A los 13 años desde COBOL, me inicie en el mundo de la programación. Hoy soy Técnico Electrónico, ejerciendo por más de 15 años. Sin embargo, a los 39 años decidí volver a la programación y emprender el interminable camino del aprendizaje en el desarrollo."
         },
         {
             name: "Gastón Aleman",
